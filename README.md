@@ -1,3 +1,3 @@
 # Git_HW_Tut1
 
-This is HE_Tut1 repository
+This is HW_Tut1 repository
